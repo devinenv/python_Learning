@@ -1,3 +1,4 @@
+'''program for multiplication of any number'''
 #num = 17
 
 num = int(input("Display multiplication table of: "))
